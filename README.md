@@ -2,7 +2,7 @@
 
 ### INTRODUCTION
 
-This report analyzes the Adventure Works 2015,2016,2017 dataset to inform business decisions and drive growth. Focusing on sales, customers, and products, our analysis identifies key trends and patterns, providing actionable recommendations to enhance operations, customer engagement, and market expansion. SQLITE is use for Analysis and Exploration
+This report analyzes the Adventure Works 2015,2016,2017 dataset to inform business decisions and drive growth. Focusing on products, customers, and sales, our analysis identifies key trends and patterns, providing actionable connections between the various tables and detailed recommendations to enhance operations, customer engagement, and market expansion. SQLITE is use for Analysis and Exploration while DBeaver was used for the ER Diagram
 
 ### DATA DICTIONARY
 
@@ -38,11 +38,6 @@ We now have a diagram see Below for The Database Diagram for this Analysis.
 2. Analyze customer purchasing patterns and preferences.
 3. Detect opportunities for product bundling.
 4. Optimize product offerings based on performance and customer feedback.
-
-
-
-
-
 
 
 
